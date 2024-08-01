@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+apscheduler = "==3.6.3"
+autopep8 = "==2.3.1"
+beautifulsoup4 = "==4.12.3"
+bs4 = "==0.0.2"
+certifi = "==2024.7.4"
+dnspython = "==2.6.1"
+feedparser = "==6.0.11"
+pycodestyle = "==2.12.0"
+pymongo = "==4.8.0"
+python-decouple = "==3.8"
+python-telegram-bot = "==13.5"
+pytz = "==2024.1"
+sgmllib3k = "==1.0.0"
+six = "==1.16.0"
+soupsieve = "==2.5"
+timeago = "==1.0.16"
+toml = "==0.10.2"
+tornado = "==6.4.1"
+tzlocal = "==5.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

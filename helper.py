@@ -69,12 +69,9 @@ Here's a quick tutorial on how to use the bot:
 - Add your RSS feeds:
 <b>/add_rss</b> &lt;rss url&gt; &lt;rss name&gt; ex: /add_rss https://url.com my_feed
 
-You can add multiple RSS feeds, once done, you'll be receiving notifications ever {REPEAT_PERIOD} minutes!
+You can add multiple RSS feeds, once done, you'll be receiving notifications every {REPEAT_PERIOD} minutes!
 
 Use <b>/help</b> for more info!
-New features will be out soon!
-
-<b>PS</b> You can support me at: https://www.buymeacoffee.com/iJohnMaged :)
 """
 
 
